@@ -1,1 +1,4 @@
-print('Я домашка'
+from shutil import which
+
+
+print('Я домашка')
